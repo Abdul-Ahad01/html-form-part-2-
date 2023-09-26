@@ -1,0 +1,25 @@
+textarea{
+    resize: none;
+    width: 50%;
+    padding: 20px;
+    margin: 10px;
+    border: 3px solid gray;
+    border-radius: 10px;
+}
+input[type="button"], [type="reset"]{
+    margin: 10px;
+    padding: 20px;
+    border: none;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    
+}
+select{
+    margin: 10px;
+    padding: 20px;
+    border: none;
+    width: 50%;
+    background-color: chocolate;
+    border-radius: 10px;
+}
